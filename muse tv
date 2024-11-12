@@ -6,7 +6,7 @@
   
                 {		
                     "name": "movies",		
-                    "image": "",
+                    "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9jMGIxNzVmM3FncGsycDEzdDQycWlya2M1MTUyc3FvcXRtZjZudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FU8NV7tdIuL9Vra0DE/giphy.webp",
                     "stations": [
 
 
@@ -58,7 +58,15 @@
 {"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 {"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
+]},{"name": "Importar-muse-mix-tv","image": "https://j.gifs.com/vO0xEx.gif","groups":[
 
+{"name": "dookeela.live","image": "https://dookeela.live/images/logo-bar.png","url": "https://dookeela.live/","import": false},
+{"name": "musetvfree","image": "","url": "","import": false},
+{"name": "musetvfree","image": "","url": "","import": false},
+{"name": "musetvfree","image": "","url": "","import": false},
+{"name": "musetvfree","image": "","url": "","import": false},
+{"name": "musetvfree","image": "","url": "","import": false},
+{"name": "musetvfree","image": "","url": "","import": false},
 
 
 ]
