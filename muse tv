@@ -47,7 +47,6 @@
 {"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 {"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
- 
 ]},{"name": "sports","image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0020/2584/brand.gif?itok=iZfzR6xz","stations": [
 
 {"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
@@ -60,13 +59,32 @@
 
 ]},{"name": "Importar-muse-mix-tv","image": "https://j.gifs.com/vO0xEx.gif","groups":[
 
-{"name": "dookeela.live","image": "https://dookeela.live/images/logo-bar.png","url": "https://dookeela.live/","import": false},
-{"name": "musetvfree","image": "","url": "","import": false},
-{"name": "musetvfree","image": "","url": "","import": false},
-{"name": "musetvfree","image": "","url": "","import": false},
-{"name": "musetvfree","image": "","url": "","import": false},
-{"name": "musetvfree","image": "","url": "","import": false},
-{"name": "musetvfree","image": "","url": "","import": false},
+{"name": "All-In-1","image": "https://dookeela.live/images/logo-bar.png","url": "https://raw.githubusercontent.com/Soe1456/muse/refs/heads/main/All-In-1","import": false},
+{"name": "Muse Sports update m3u","image": "https://dookeela.live/images/logo-bar.png","url": "https://raw.githubusercontent.com/Soe1456/muse/refs/heads/main/Muse%20Sports%20update%20m3u","import": false},
+{"name": "muse-w3u","image": "https://dookeela.live/images/logo-bar.png","url": "https://raw.githubusercontent.com/Soe1456/muse/refs/heads/main/muse-w3u","import": false},
+{"name": "muse tv","image": "https://dookeela.live/images/logo-bar.png","url": "https://raw.githubusercontent.com/Soe1456/moi/refs/heads/main/muse%20tv","import": false},
+{"name": "musetvfree","image": "https://dookeela.live/images/logo-bar.png","url": "","import": false},
+{"name": "musetvfree","image": "https://dookeela.live/images/logo-bar.png","url": "","import": false},
+{"name": "musetvfree","image": "https://dookeela.live/images/logo-bar.png","url": "","import": false},
+
+]},{"name": "","image": "https://i.gifer.com/XofN.mp4","stations": [
+
+{"name": "dookeela.live","image": "https://dookeela.live/images/logo-bar.png","url": "https://dookeela.live/","embed": true},
+{"name": "livesod365","image": "https://livesod365.com/wp-content/uploads/2024/06/logo-header.png","url": "https://livesod365.com/","embed": true},
+{"name": "ufa191i","image": "https://www.ufa191i.com/wp-content/uploads/2023/12/%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%A5-%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94-%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-250x150.png","url": "https://www.ufa191i.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94/#player","embed": true},
+{"name": "ballmun","image": "https://ballmun.com/images/ballmun.png","url": "https://ballmun.com/","embed": true},
+{"name": "baballbet","image": "https://www.baballbet.com/wp-content/uploads/2023/08/cropped-Ballbet2PNG300.png","url": "https://www.baballbet.com/","embed": true},
+{"name": "dooballfree24hr","image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/logo394x173.png","url": "https://www.dooballfree24hr.com/","embed": true},
+{"name": "livescorethai.tv","image": "https://livescorethai.tv/assets/images/2024/app/lst.png","url": "https://livescorethai.tv/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94LST","embed": true},
+{"name": "heng99bet","image": "https://www.heng99bet.com/wp-content/themes/project-h/assets/images/logo.svg","url": "https://www.heng99bet.com/","embed": true},
+{"name": "ufa77","image": "https://www.ufa77.fun/assets/img/UFA77_UFABET.png","url": "https://www.ufa77.fun/home","embed": true},
+{"name": "ball24.tv","image": "https://www.ball24.tv/wp-content/themes/ball24/image/menu.png","url": "https://www.ball24.tv/allchannel/?id=bein1","embed": true},
+{"name": "doolive4k","image": "https://doolive4k.tv/images/logo/yEwoYr6gip1xZ7PgPTYvo1raFCBMl8uGoatbat168Zeed_logo.png","url": "https://doolive4k.tv/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AA%E0%B8%94","embed": true},
+{"name": "","image": "","url": "","embed": true},
+
+
+
+
 
 
 ]
