@@ -216,8 +216,8 @@
 
 ]},{"name": "Alien: Earth (2025)", "image": "https://www.dooseries-hd.com/wp-content/uploads/2025/08/Alien-Earth-265x375.png","stations":[
 
-{"name": "ep 1", "image": "","url": "https://master.streamhls.com/filesr2/8730c3eefb3b2184647c4d9a43fbe226/720/index","referer": "https://www.dooseries-hd.com/","playInNatPlayer": "true"},  
-{"name": "ep 2", "image": "","url": "","referer": "https://www.dooseries-hd.com/","playInNatPlayer": "true"},        
+{"name": "ep 1", "image": "","url": "https://master.streamhls.com/hlsr2/8730c3eefb3b2184647c4d9a43fbe226/master","referer": "https://www.dooseries-hd.com/","playInNatPlayer": "true"},  
+{"name": "ep 2", "image": "","url": "https://master.streamhls.com/hlsr2/66a05e0c9e0a113e4a39a5b82a80fe4f/master","referer": "https://www.dooseries-hd.com/","playInNatPlayer": "true"},        
 {"name": "ep 3", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
 {"name": "ep 4", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
 {"name": "ep 5", "image": "","url": "","referer": "","playInNatPlayer": "true"},        
