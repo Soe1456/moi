@@ -166,9 +166,9 @@
 
 ]},{"name": "Lost You Forever พากย์ไทย", "image": "https://series-fulls.com/wp-content/uploads/2023/08/%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%B6%E0%B8%87-%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B9%83%E0%B8%88%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%A3%E0%B9%8C-847x476.jpg","stations":[
  
-{"name": "ep 11", "image": "https://ok-nah.com/hls/07f8edb22295d55bf8df16a618aff4e8/master.m3u8","url": "https://series-fulls.com/","referer": "","playInNatPlayer": "true"},  
-{"name": "ep 12", "image": "https://ok-nah.com/hls/b00a9b4c50e01990c7bd7673b17d758b/master.m3u8","url": "https://series-fulls.com/","referer": "","playInNatPlayer": "true"},        
-{"name": "ep 13", "image": "https://ok-nah.com/hls/dc6b7f0e98021be6927560aa72103c22/master.m3u8","url": "https://series-fulls.com/","referer": "","playInNatPlayer": "true"},  
+{"name": "ep 11", "image": "","url": "https://ok-nah.com/hls/07f8edb22295d55bf8df16a618aff4e8/master.m3u8","referer": "https://series-fulls.com/","playInNatPlayer": "true"},  
+{"name": "ep 12", "image": "","url": "https://ok-nah.com/hls/b00a9b4c50e01990c7bd7673b17d758b/master.m3u8","referer": "https://series-fulls.com/","playInNatPlayer": "true"},        
+{"name": "ep 13", "image": "","url": "https://ok-nah.com/hls/dc6b7f0e98021be6927560aa72103c22/master.m3u8","referer": "https://series-fulls.com/","playInNatPlayer": "true"},  
 {"name": "ep 14", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
 {"name": "ep 15", "image": "","url": "","referer": "","playInNatPlayer": "true"},  
 {"name": "ep 16", "image": "","url": "","referer": "","playInNatPlayer": "true"},        
