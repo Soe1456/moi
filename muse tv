@@ -107,7 +107,113 @@
 {"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 {"name": "", "image": "","url": "","referer": "","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
 
+]},{
+"name": "บอลโลก FIFA Wold Cup",
+"image":"https://www.ieethailand.com/wp-content/uploads/2025/08/img_1060-1024x576.webp",
+"url": "https://docs.google.com/uc?export=download&id=1DTsZXWk5DVK8bCbQlYdMDuoyZzdlsVZj",   
+"import": false 
+}, 
 
+{
+"name": "MONAMAX",
+"image":"https://www.siamsport.co.th/static/103170/thumbnail.webp",
+"url": "https://docs.google.com/uc?export=download&id=1OOrO8Zfpoeh1XVwYuvbHbjbTN6wRIDs6",   
+"import": false 
+}, 
+
+{"name":"สำรอง MONOMAX",
+"image":"https://www.telecomlover.com/wp-content/uploads/2026/05/Monomax-Sports.jpg",
+"url":"https://docs.google.com/uc?export=download&id=18jZvuLIFt-SVpfiwvhN6yZhGW47m3Hyx",
+"import": false},
+
+
+{
+"name": "ไทยลีก",
+"image":   "https://www.ballthai.com/wp-content/uploads/2022/06/Thai-League-1.jpg" ,
+"url": "https://docs.google.com/uc?export=download&id=1HCVG2v6VAeaACGwXPG0vbXgYifxCCxVk",
+"import": false
+},
+{
+"name": "GOLF",
+"image":   "https://www.rsuvistagolf.com/wp-content/uploads/2023/12/AdobeStock_57340418-1024x647.jpeg" ,
+"url": "https://docs.google.com/uc?export=download&id=17piVjX4xBFptdbIFmppnmEdv3V4MOZEe",
+"import": false
+},
+{
+"name": "รถแข่ง ",
+"image": "https://img.icarcdn.com/autospinn/body/000000818523_adddce3a_8542_40db_a53f_96b397ec086e.jpg" ,
+"url": "https://docs.google.com/uc?export=download&id=12OQ_KFDCIllh7FxG1SWN41EZr0Up370m",
+"import": false
+},
+{
+"name": "เทนนิส ",
+"image": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa5nm6zpQFYAWafDXgNMkne7GubiBihVt4dKxS5VByjFazqp5O1lQ.jpg" ,
+"url": "https://docs.google.com/uc?export=download&id=1EtZal2V6yHrZFXq4aZNMfUx2Za-_Pp2w",
+"import": false
+},
+
+
+{
+"name": "Sport_one",
+"image":   "https://cdn.aptoide.com/imgs/4/d/d/4ddfaf7d9a59a6f2768bbda37e7ffe0b_icon.png" ,
+"url": "https://docs.google.com/uc?export=download&id=1HZSgtyU6dGFKeGhJloPSL31K_msA_aRM",
+"import": false
+},
+{
+"name": "Sport_two",
+"image":   "https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png" ,
+"url": "https://docs.google.com/uc?export=download&id=1L1bV1tekH9nzOpCSrNnCzfJ6Vo7D7NQ6",
+"import": false
+},
+{
+"name":"มวยปลั้ม",
+"image":"https://www.khaosod.co.th/wpapp/uploads/2021/10/MW-FF595_wwe020_20170209173749_ZH.jpg",
+"url": "https://docs.google.com/uc?export=download&id=167bfD6KOtjA7gnToqYRh1H7_mxA5LbB8",
+"import": false
+}, 
+{
+"name": "แข่งตบ",
+"image": "https://pandastatic.b-cdn.net/image/?url=https%3A%2F%2Fpandastorage.b-cdn.net%2Fpln%2FuploadedImage%2F35029986%2Fhqdefaultjpg_35029986_1696351347.jpg%3Fw%3D1280%26h%3D720%3Fw%3D1280%26h%3D720%3Fw%3D480%26h%3D",
+"url": "https://docs.google.com/uc?export=download&id=1drRsv6Lo0kV8jYUGI3edOcLGao11PV3J",
+"import": false
+},
+{
+"name": "มวย",
+"image": "https://cdn.onefc.com/wp-content/uploads/sites/5/2019/05/Superlek-DCIMGL0459.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1OnvcgNzG7EuNt7alWgbiyCqj2XIEUTQn",
+"import": false
+},
+{
+"name": "ตกปลา",
+"image": "https://andamaran.com/wp-content/uploads/2025/03/tour-gallery-boat-trip-phuket-fishing-tour-full-day-01.jpg",
+"url": "https://docs.google.com/uc?export=download&id=1A8VNeR3sDMNULSWVOh7JZ9bfTrozcfY2",
+"import": false
+},
+{
+"name":"กีฬาต่างประเทศ ",
+"image":"https://www.khaosod.co.th/wpapp/uploads/2025/10/west-ham-brentford-3888.jpg",
+"url":"https://docs.google.com/uc?export=download&id=1sxQiBINwzhnZQEwjpVB60y8m_bLFQtQp",
+"import": false
+},
+
+{
+"name":"ไก่ชน วัวชน",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiaYCz6ADPEqwzEEAwQZ-Ig9OuveZNb-vRTA&s",
+"url":"https://docs.google.com/uc?export=download&id=1TV0eP_t5rOLLhpbEUrxnznmSX0ZSB4ID",
+"import": false
+},
+{
+"name": "Sport",
+"image":   "https://img.freepik.com/free-vector/sport-text-banner-poster-design_1308-132612.jpg?semt=ais_wordcount_boost&w=740&q=80" ,
+"url": "https://docs.google.com/uc?export=download&id=1HDaiKoidmyEig0yizILnaPbBKo1oPvzK",
+"import": false
+},
+{
+"name": "กลับสู่ช่อง main",
+"image": "https://www.dropbox.com/scl/fi/njmir0w6ayxapkd0y7xt0/.gif?rlkey=5rvfy20xre15qbgsdjgalu7t7&dl=1",
+"url": "https://docs.google.com/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53",
+"import": false 
+},
 
 
 
